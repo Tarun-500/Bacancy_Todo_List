@@ -19,7 +19,7 @@ function App() {
     }
 
     const newTask = { text: taskText, checked: false };
-    const updatedData = [...data, newTask];
+    const updatedData = [newTask, ...data];
     setData(updatedData);
     localStorage.setItem("data", JSON.stringify(updatedData));
     setNewData("");
