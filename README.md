@@ -1,8 +1,11 @@
-# React + Vite
+<h1>Figma Design</h1>
+https://www.figma.com/design/eSndpOgCahvkwWC0Wa3zZC/Practical?node-id=0-15&t=tOvjBcSf4nocNa6W-0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1> Task Url </h1>
+https://bacancy-todo-list.vercel.app/
 
-Currently, two official plugins are available:
+<h1> Github Link </h1>
+https://github.com/Tarun-500/Bacancy_Todo_List
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<p>Here i have attached all screenshots of the task - </p>
